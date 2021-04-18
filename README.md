@@ -2,9 +2,20 @@
 
 I realized that I'm never going to be a programming professor.
 
-## :meat_on_bone: Contents
+## Contents :meat_on_bone:
 The universe is structured somehow and so is this repository.
 
-| Lesson | Content |
-| ------ | ------- |
-| STILL THINKING ABOUT IT | HAVEN'T DECIDED |
+| Repository | About | Done |
+| ---------- | ----- | ---- |
+| [/01](Basic Concepts) | comments, ASCII, scope, type, objects, memory model | :heavy_multiplication_x: |
+| [/02](Keywords) | Keywords | | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| [/03](Preprocessor) | #if, #ifdef, #ifndef, #define, #include, #pragma, #line, #error | :heavy_multiplication_x: |
+| [/04](Statements) | if, switch, for , while, do-while, continue, break, goto, return | :heavy_multiplication_x: |
+| [/05](Expressions) | constants/literals, implicit conversions, operators, precedence, generic selection | :heavy_multiplication_x: |
+| [/06](Initialization) | scalar, array, structure/union | :heavy_multiplication_x: |
+| [/07](Declarations) | pointers, enumerations, storage, struct, bit fields, typedef, external/tentative defs | :heavy_multiplication_x: |
+| [/08](Functions) | declaration, definition, inline, no-return, variadic arguments | :heavy_multiplication_x: |
+
+## Version
+
+C99, hopefully most c code is written in this version
