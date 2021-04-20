@@ -19,3 +19,9 @@ The universe is structured somehow and so is this repository.
 ## Version
 
 C99, hopefully most c code is written in this version
+
+## To-Do List
+
+| File | To-Do |
+| ---- | ----- |
+| [ascii.c](/01/2ascii.c) | Randomize given characters and decimal integers, clean up code, include binary, hex, and octal columns |
